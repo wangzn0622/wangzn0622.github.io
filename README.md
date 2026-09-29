@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="source/img/123a.jpg" width="120" alt="Zi5TH">
-
 # 欢迎来到Zi5TH的小世界
 
 **🌸 春风有信，花笺沁香**
